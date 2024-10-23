@@ -9,8 +9,6 @@ namespace PrjVotacao
 
         private void votaçãoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FormVotacao obj = new FormVotacao();
-            obj.ShowDialog();
         }
 
         private void eleitoresToolStripMenuItem_Click(object sender, EventArgs e)
